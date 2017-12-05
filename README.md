@@ -5,5 +5,4 @@ add some text
 Changes made after collaboration 
 
 AkiraEndo added this text
-
-creating conflict
+AkiraEndo also added this text
